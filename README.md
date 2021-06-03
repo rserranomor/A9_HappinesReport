@@ -23,7 +23,7 @@ Todas estas visualizaciones puede ser útiles para cualquier usuario que tenga c
 
 ## Documentos
 * A9_EstadoFelicidadEspaña.ipynb: Notebook principal que recoge todo el código y visualizaciones.
-* A9_EstadoFelicidadEspaña_RubénSerranoMoreno.html: Exportación del notebook
+* A9_EstadoFelicidadEspaña.html: Exportación del notebook
 * HappinesReport-WestEurope.twb: Cuadro de mandos de Tableau al que se hace referéncia en un punto del notebook.
 * WETableau.png: imagen del tableau
 
