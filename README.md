@@ -26,4 +26,5 @@ Todas estas visualizaciones puede ser útiles para cualquier usuario que tenga c
 * A9_EstadoFelicidadEspaña.html: Exportación del notebook
 * HappinesReport-WestEurope.twb: Cuadro de mandos de Tableau al que se hace referéncia en un punto del notebook.
 * WETableau.png: imagen del tableau
+* report_Happiness.csv: conjunto de datos
 
